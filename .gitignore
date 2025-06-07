@@ -3,4 +3,5 @@
 playground.py
 data
 chroma_db_persistent
+__pycache__
 # 
