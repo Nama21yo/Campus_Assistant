@@ -1,0 +1,6 @@
+.campus_venv
+.env
+playground.py
+data
+chroma_db_persistent
+# 
