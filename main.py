@@ -18,7 +18,7 @@ def main():
     The main function to initialize and run the chatbot.
     """
     #
-    # gemini model
+   # gemini model
     llm = ChatGoogleGenerativeAI(model=config.LLM_MODEL_NAME, temperature=0.3)
 
     retriever = vectorstore_manager.get_retriever()

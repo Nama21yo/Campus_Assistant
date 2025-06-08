@@ -12,3 +12,14 @@ torch
 sentencepiece 
 transformers 
 accelerate
+
+
+Dagim - Data Preprocessing
+Saron - Presentation and Data Acquisation
+Sisay - UI
+Biruh - Prompt Engineering
+Natnael - RAG
+
+Future - AAU website chabot
+Future Implementation - Multilingual
+Data
