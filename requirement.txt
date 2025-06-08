@@ -1,0 +1,14 @@
+chromadb
+streamlit 
+langchain 
+langchain-google-genai 
+langchain-chroma 
+langchain-community 
+pydantic-settings 
+python-dotenv 
+langchain-redis 
+redis 
+torch 
+sentencepiece 
+transformers 
+accelerate
